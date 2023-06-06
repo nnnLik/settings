@@ -19,5 +19,5 @@ sudo make altinstall
 ```
 setup
 ```
-sudo /home/www/.python/bin/python3.7 -m pip install -U pip
+sudo /home/www/.python/bin/python3.11 -m pip install -U pip
 ```
